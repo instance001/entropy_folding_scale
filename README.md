@@ -1,3 +1,6 @@
+Superseded working draft. Canonical versions are maintained at:
+https://github.com/instance001/entropy-folding-foundational-frameworks
+
 # Entropy Foundation — Scale
 ### Version 1.0 (Pure Theory Edition)
 
