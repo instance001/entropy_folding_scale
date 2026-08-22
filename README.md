@@ -1,4 +1,4 @@
-Superseded working draft. Canonical versions are maintained at:
+﻿Superseded working draft. Canonical versions are maintained at:
 https://github.com/instance001/entropy-folding-foundational-frameworks
 
 # Entropy Foundation — Scale
@@ -105,7 +105,7 @@ Symbound Entropy Core Series – Paper 2
 Version: v0.1
 License: AGPL-3.0
 Authors: Anthony Paterson & Instance001 Plus
-Project of: Fractal Infrastructure Media (FIM)
+Project of: Fractal Media Infrastructure (FMI)
 Status: Public Release
 
 Overview
